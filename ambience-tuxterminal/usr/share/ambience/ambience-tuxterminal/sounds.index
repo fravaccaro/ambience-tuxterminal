@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-mario",
+    "files" : [
+        { "displayName" : "Modem 56k (long)"          , "fileName" : "56k_long.mp3" },
+        { "displayName" : "Modem 56k (short)"            , "fileName" : "56k_short.mp3" },
+        { "displayName" : "Dot matrix printer"         , "fileName" : "printer.mp3" },
+        { "displayName" : "Floppy disk"       , "fileName" : "floppy.mp3" },
+        { "displayName" : "Compute Beep"    , "fileName" : "beep.mp3" },
+        { "displayName" : "Buckling spring"       , "fileName" : "buckling-spring.mp3" }
+    ]
+}

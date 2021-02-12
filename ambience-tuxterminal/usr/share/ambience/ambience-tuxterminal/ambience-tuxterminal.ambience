@@ -1,0 +1,19 @@
+{
+    "translationCatalog"        : "ambience-tuxterminal",
+    "displayName"               : "Tux Terminal",
+    "ringerToneFile"            : { "file": "56k_long.mp3", "enabled": 1 },
+    "messageToneFile"           : { "file": "floppy.mp3",      "enabled": 1 },
+    "mailToneFile"              : { "file": "56k_short.mp3",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "56k_long.mp3",       "enabled": 1 },
+    "chatToneFile"              : { "file": "buckling-spring.mp3",       "enabled": 1 },
+    "calendarToneFile"          : { "file": "beep.mp3", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "printer.mp3",    "enabled": 1 },
+    "version"                   : 2,
+    "wallpaper"                 : "ambience-tuxterminal.png",
+    "highlightColor"            : "#ffa291fe",
+    "secondaryHighlightColor"   : "#ff8174cb",
+    "primaryColor"              : "#ffffffff",
+    "secondaryColor"            : "#b0ffffff",
+    "ringerVolume"              : 98,
+    "favorite"			: true
+}
